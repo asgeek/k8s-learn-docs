@@ -39,3 +39,10 @@ This documentation and the associated project are licensed under the Apache Lice
 
 ## Acknowledgements
 Special thanks to all the resources, communities, and individuals who have provided guidance and knowledge in the journey of learning Kubernetes and its ecosystem. A special mention to the [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) project for being an invaluable resource and reference in understanding real-world applications of Kubernetes. The insights and code from this project have significantly contributed to the practical aspects of this learning experience.
+
+## References
+- [Kubernetes Documentation](https://kubernetes.io/docs/home/)
+- [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo)
+- [Istio Documentation](https://istio.io/docs/home/)
+- [Prometheus Documentation](https://prometheus.io/docs/introduction/overview/)
+- [Grafana Documentation](https://grafana.com/docs/grafana/latest/)
