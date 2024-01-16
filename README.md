@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Kubernetes Learning Project Documentation
 
 ## Overview
@@ -46,3 +47,7 @@ Special thanks to all the resources, communities, and individuals who have provi
 - [Istio Documentation](https://istio.io/docs/home/)
 - [Prometheus Documentation](https://prometheus.io/docs/introduction/overview/)
 - [Grafana Documentation](https://grafana.com/docs/grafana/latest/)
+=======
+# k8s-learn-docs
+Kubernetes learning exercises and documentation
+>>>>>>> fd5a8497a51f7ed6897edda1337ee0039f805228
