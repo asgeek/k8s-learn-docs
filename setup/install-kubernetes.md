@@ -31,7 +31,7 @@ Minikube requires a Docker to run. For macOS, Docker Desktop can be used.
 
 1. **Start Minikube**: Run Minikube with your chosen driver. For Docker, use:
    ```bash
-   minikube start --driver=docker --nodes=3
+   minikube start --driver=docker --nodes=3 -p multinode-demo
    ```
 
 2. **Verify Installation**: Confirm that Minikube is properly installed by running:
